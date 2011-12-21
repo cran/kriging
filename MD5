@@ -1,0 +1,9 @@
+22d1c58128537658470e40a6fc3970aa *DESCRIPTION
+7786231122601fbf845e7e5a6ca2a8ff *NAMESPACE
+c5fff4b3bcc1382c07f9f4dc9e49fc79 *R/cbind.R
+2ac838a0cc0b3f87515ace28aed27f8c *R/kriging.R
+a33c675af69906fa2087ab7c3898dfc0 *R/methods.R
+aebbfe4b44b742cf88fec3d2f1609956 *man/image.kriging.Rd
+e1ff5e75d260c57956043069dab0ada1 *man/kriging.Rd
+e1b09ba286614596887d8c4c409dc145 *man/plot.kriging.Rd
+f8cd1e9fe42f5d8b557a0b70266b8301 *src/kriging.c

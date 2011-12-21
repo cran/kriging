@@ -1,0 +1,4 @@
+useDynLib(kriging)
+export(kriging)
+S3method(plot, kriging)
+S3method(image, kriging)
