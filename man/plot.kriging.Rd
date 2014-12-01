@@ -14,9 +14,6 @@ Plots distance versus semivariance with a fitted curve indicating the model used
   \item{ylab}{See \link{par}.}
   \item{\dots}{arguments, passed to plot.default.} 
 }
-\references{
-
-}
 \author{
 Omar E. Olmedo
 }

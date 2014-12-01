@@ -15,9 +15,6 @@ Create maps using the coordinates and predicted values in objects of class \code
   \item{col}{See \link{par}.}
   \item{\dots}{arguments, passed to image.default.}
 }
-\references{
-
-}
 \author{
 Omar E. Olmedo
 }
