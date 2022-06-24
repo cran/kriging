@@ -1,12 +1,12 @@
 Package: kriging
-Version: 1.1
+Version: 1.2
 License: GPL-2
-Description: Simple and highly optimized ordinary kriging algorithm to plot geographical data
+Description: An implementation of a simple and highly optimized ordinary kriging algorithm to plot geographical data.
 Title: Ordinary Kriging
 Author: Omar E. Olmedo
 Maintainer: Omar E. Olmedo <omareolmedo@gmail.com>
 Suggests: maps
-Packaged: 2014-12-01 15:38:27 UTC; oolmedo
+Packaged: 2022-06-24 16:37:35 UTC; omarolmedo
 NeedsCompilation: yes
 Repository: CRAN
-Date/Publication: 2014-12-01 17:55:32
+Date/Publication: 2022-06-24 17:10:02 UTC
